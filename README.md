@@ -8,8 +8,8 @@ This project involves SQL queries to manage a library system, including retrievi
 
 ### All Data
 
+
 1️⃣ Get all books that have never been borrowed  
-This query retrieves books that have never been issued to any member.  
 
 ```sql
 SELECT 
