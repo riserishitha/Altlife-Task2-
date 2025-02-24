@@ -5,10 +5,6 @@ This project involves SQL queries to manage a library system, including retrievi
 
 ## 📌 SQL Queries  
 
-
-### All Data
-
-
 1️⃣ Get all books that have never been borrowed  
 
 ```sql
